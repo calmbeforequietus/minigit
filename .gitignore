@@ -1,3 +1,2 @@
-__pycache__/
-.pytest_cache/
-*.egg-info/
+# Created by pytest automatically.
+*
